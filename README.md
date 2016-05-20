@@ -1,2 +1,2 @@
-# PyDnsCIDR
-Scripts that handle dynamic CIDR ranges for reverse name lookup.
+# PyDnsCider
+Scripts that handle dynamic CIDR (Cider) ranges for reverse name lookup.
