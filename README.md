@@ -2,7 +2,7 @@
 
 This script dynamically handles CIDR ranges for reverse name looksups from PTR records and spits out results. Properly handles no PTR records exists as well.
 
-## Enhancement Ideas for Later
+### Enhancement Ideas for Later
 
 - Multi-threading
 - Dynamically set DNS servers
@@ -12,32 +12,32 @@ This script dynamically handles CIDR ranges for reverse name looksups from PTR r
 ### Prerequisities
 
 ```
-pip install dnspython
+pip install time
 pip install socket
 ```
 
 ### Installing
 
-- Clone, tackle prerequisites, and go!
+Clone, tackle prerequisites, and go!
 
-## Deployment
+### Deployment
 
 Nothing fancy to note, just pip install the required modules.
 
-## Built With
+### Built With
 
 * Atom
 * Python 2.7
 
-## Contributing
+### Contributing
 
 Feel free to send pull requests for improvements or enhancements.
 
-## Authors
+### Authors
 
-* **Ian Norden** - *Initial work* - [iancnorden](https://github.com/iancnorden)
-* **Leon Denard** - *Initial work* - [LtDenard](https://github.com/ltdenard)
+* **Ian Norden** - *Idea Man* - [iancnorden](https://github.com/iancnorden)
+* **Leon Denard** - *Heavy Lifting* - [LtDenard](https://github.com/ltdenard)
 
-## License
+### License
 
 This project is licensed under the Gnu GPLv3 License - see the [LICENSE.md](LICENSE.md) file for details
