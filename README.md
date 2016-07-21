@@ -1,6 +1,6 @@
 # PyDnsCider
 
-This script dynamically handles CIDR ranges for reverse name looksups from PTR records and spits out results. Properly handles no PTR records exists as well.
+This script dynamically handles CIDR ranges for reverse name lookups from PTR records and spits out results. Properly handles no PTR records exists as well.
 
 ## Enhancement / Ideas for Later
 
